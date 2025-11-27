@@ -2,31 +2,28 @@ import React from 'react';
 
 const OurServices: React.FC = () => {
   return (
-    <section className="py-20 bg-gray-50">
+    <section className="py-20 bg-[#F0F5F7]" id="services">
       <div className="container mx-auto px-4 text-center">
-        <h2 className="text-4xl md:text-5xl font-extrabold text-taxi-dark uppercase mb-10">Our Services</h2>
+        <h2 className="text-4xl md:text-5xl font-extrabold text-[#0099cc] uppercase mb-10">Taxi Service Martigny</h2>
         
-        <div className="max-w-4xl mx-auto space-y-6 text-gray-600 text-lg leading-relaxed">
+        <div className="max-w-4xl mx-auto space-y-6 text-gray-600 text-lg leading-relaxed font-medium">
           <p>
-            Our aim at <span className="font-bold text-taxi-dark">Taxi Martigny</span> is to offer our clients a choice when it comes to booking an Airport Ski Transfer. 
-            We offer both shared, standard and premium private transfer services.
+            Based in Martigny and Verbier, the <span className="font-bold text-taxi-dark">Taxi Martigny</span> company has a wide range of vehicles ranging from taxis to minivans (7 seats) to buses (16 seats), including luxury limousines.
           </p>
           <p>
-            We specialise in Airport Transfers from <span className="font-bold text-taxi-dark">Geneva Airport</span> that offer excellent value for money.
+            Available 7 days a week, <span className="font-bold text-taxi-dark">Taxi Martigny</span> provides 24/7 transportation services in the highest standards of quality, safety, confidentiality, and comfort.
           </p>
           <p>
-            Our most popular services are from Geneva airport to <span className="font-bold text-taxi-dark">Verbier</span>, <span className="font-bold text-taxi-dark">Martigny</span>, and <span className="font-bold text-taxi-dark">Chamonix</span>. 
-            Not only are these transfers good on the pocket but they are also carbon friendly too!
+            We operate to and from world-renowned ski resorts such as <span className="font-bold text-taxi-dark">Verbier, La Tzoumaz, Crans Montana, Zermatt, and Saas Fee</span>, as well as major airports including <span className="font-bold text-taxi-dark">Geneva, Zurich, Sion, and Basel</span>.
           </p>
           <p>
-            From this winter season 24/25 we are expanding our network.
-            Our service is reliable and convenient and run by professionals who have a strong background in Airport Ski Transfers.
+            Our services range from group transportation to VIP transport, as well as the transport of luggage and small urgent packages.
           </p>
         </div>
 
         <div className="mt-12">
-          <button className="bg-taxi-yellow text-taxi-dark px-10 py-4 rounded-lg font-extrabold text-lg shadow-lg hover:bg-yellow-400 transition-colors uppercase">
-            Book Now
+          <button className="bg-[#ED2559] text-white px-10 py-4 rounded-lg font-extrabold text-lg shadow-lg hover:bg-[#d61c4b] transition-colors uppercase">
+            Book Online
           </button>
         </div>
       </div>
