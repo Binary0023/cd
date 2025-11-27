@@ -15,8 +15,8 @@ const Services: React.FC = () => {
           <div className="group relative rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300">
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-transparent z-10"></div>
             <img 
-              src="https://picsum.photos/id/1072/800/600" 
-              alt="Private Transfer" 
+              src="https://images.unsplash.com/photo-1617788138017-80ad40651399?q=80&w=2670&auto=format&fit=crop" 
+              alt="Private Luxury Taxi" 
               className="w-full h-80 md:h-96 object-cover group-hover:scale-105 transition-transform duration-700"
             />
             <div className="absolute bottom-0 left-0 p-8 z-20 w-full">
@@ -32,8 +32,8 @@ const Services: React.FC = () => {
           <div className="group relative rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300">
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-transparent z-10"></div>
             <img 
-              src="https://picsum.photos/id/111/800/600" 
-              alt="Shared Transfer" 
+              src="https://images.unsplash.com/photo-1570125909232-eb263c188f7e?q=80&w=2671&auto=format&fit=crop" 
+              alt="Shared Minivan Transfer" 
               className="w-full h-80 md:h-96 object-cover group-hover:scale-105 transition-transform duration-700"
             />
             <div className="absolute bottom-0 left-0 p-8 z-20 w-full">

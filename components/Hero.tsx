@@ -10,12 +10,12 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1551524559-8af4e6624178?q=80&w=2826&auto=format&fit=crop" 
-          alt="Ski Resort" 
+          src="https://images.unsplash.com/photo-1491555103944-7c64e985bd81?q=80&w=2670&auto=format&fit=crop" 
+          alt="Taxi Martigny Swiss Alps" 
           className="w-full h-full object-cover"
         />
         {/* Overlay gradient similar to Alpine Fleet */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/40 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-black/50 to-transparent"></div>
       </div>
 
       <div className="container mx-auto px-4 z-10 relative h-full flex flex-col justify-center">

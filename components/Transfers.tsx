@@ -15,7 +15,7 @@ const Transfers: React.FC = () => {
           <div className="flex flex-col md:flex-row bg-white rounded-xl overflow-hidden shadow-lg group">
             <div className="md:w-5/12 h-64 md:h-auto overflow-hidden relative">
                <img 
-                src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=2669&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1557223562-6c77ef16210f?q=80&w=2670&auto=format&fit=crop" 
                 alt="Shared Transfers" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
@@ -39,7 +39,7 @@ const Transfers: React.FC = () => {
           <div className="flex flex-col md:flex-row bg-white rounded-xl overflow-hidden shadow-lg group">
             <div className="md:w-5/12 h-64 md:h-auto overflow-hidden relative">
                <img 
-                src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?q=80&w=2670&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1532911557891-d12f6b98dddc?q=80&w=2621&auto=format&fit=crop" 
                 alt="Private Transfers" 
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />

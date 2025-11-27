@@ -3,7 +3,7 @@ import React from 'react';
 const BookBanner: React.FC = () => {
   return (
     <section className="relative py-32 bg-taxi-dark overflow-hidden">
-      <img src="https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=2670&auto=format&fit=crop" alt="Mountain View" className="absolute inset-0 w-full h-full object-cover opacity-40" />
+      <img src="https://images.unsplash.com/photo-1498855926480-d98e83099315?q=80&w=2670&auto=format&fit=crop" alt="Mountain View" className="absolute inset-0 w-full h-full object-cover opacity-40" />
       <div className="absolute inset-0 bg-gradient-to-r from-taxi-dark/80 to-taxi-dark/40"></div>
       
       <div className="container mx-auto px-4 relative z-10 text-center">

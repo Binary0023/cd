@@ -3,7 +3,7 @@ import React from 'react';
 const SkiHire: React.FC = () => {
   return (
     <section className="relative py-24 bg-taxi-dark overflow-hidden">
-      <img src="https://picsum.photos/id/1004/1600/600" alt="Ski Hire" className="absolute inset-0 w-full h-full object-cover opacity-40 mix-blend-overlay" />
+      <img src="https://images.unsplash.com/photo-1522056615691-da7b8106c665?q=80&w=2670&auto=format&fit=crop" alt="Ski Hire" className="absolute inset-0 w-full h-full object-cover opacity-40 mix-blend-overlay" />
       <div className="container mx-auto px-4 relative z-10 flex flex-col md:flex-row items-center justify-between gap-8">
         <div>
           <h2 className="text-5xl md:text-7xl font-extrabold text-white uppercase italic">

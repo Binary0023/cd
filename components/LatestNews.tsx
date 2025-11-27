@@ -14,7 +14,7 @@ const LatestNews: React.FC = () => {
           {/* Article 1 */}
           <div className="bg-white rounded-xl overflow-hidden shadow-md group cursor-pointer">
             <div className="h-64 overflow-hidden">
-              <img src="https://picsum.photos/id/1033/600/400" alt="News" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+              <img src="https://images.unsplash.com/photo-1520625902315-6f9260c6d70d?q=80&w=2669&auto=format&fit=crop" alt="Geneva to Chamonix" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
             </div>
             <div className="p-6">
               <div className="text-sm text-gray-400 mb-2 font-bold uppercase">Transfers</div>
@@ -27,7 +27,7 @@ const LatestNews: React.FC = () => {
           {/* Article 2 */}
           <div className="bg-white rounded-xl overflow-hidden shadow-md group cursor-pointer">
             <div className="h-64 overflow-hidden">
-              <img src="https://picsum.photos/id/1060/600/400" alt="News" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+              <img src="https://images.unsplash.com/photo-1551524164-687a55dd1126?q=80&w=2525&auto=format&fit=crop" alt="Verbier Skiing" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
             </div>
             <div className="p-6">
               <div className="text-sm text-gray-400 mb-2 font-bold uppercase">Tips</div>

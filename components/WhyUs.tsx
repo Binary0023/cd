@@ -7,7 +7,7 @@ const WhyUs: React.FC = () => {
         {/* Image Side */}
         <div className="lg:w-1/2 h-96 lg:h-auto relative min-h-[500px]">
           <img 
-            src="https://images.unsplash.com/photo-1520625902315-6f9260c6d70d?q=80&w=2669&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1482059470115-0aadd6bf6834?q=80&w=2671&auto=format&fit=crop" 
             alt="Why Taxi Martigny" 
             className="absolute inset-0 w-full h-full object-cover"
           />

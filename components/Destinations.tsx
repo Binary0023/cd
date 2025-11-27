@@ -4,12 +4,12 @@ import { ArrowRight } from 'lucide-react';
 const destinations = [
   { 
     name: 'Geneva Taxi – Verbier', 
-    img: 'https://images.unsplash.com/photo-1565992441121-4367c2967103?q=80&w=2727&auto=format&fit=crop',
+    img: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=2670&auto=format&fit=crop',
     price: 'From 250 CHF'
   },
   { 
     name: 'Geneva Taxi – Martigny', 
-    img: 'https://images.unsplash.com/photo-1596710629131-419b4561b32d?q=80&w=2787&auto=format&fit=crop',
+    img: 'https://images.unsplash.com/photo-1527668752968-14dc70a27c95?q=80&w=2670&auto=format&fit=crop',
     price: 'From 220 CHF'
   },
   { 
